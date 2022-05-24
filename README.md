@@ -24,7 +24,7 @@ __
 ### How can you reproduce results? 
 - Execute the scripts in the order of its own prefix. The schema below ilustrates the inputs and outputs paths and order of execution in a DAG.
 
-![Screenshot](workflow.png)
+![Screenshot](workflow.PNG)
 
 
 __
