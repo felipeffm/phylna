@@ -7,7 +7,4 @@ src.egg-info/top_level.txt
 *.html
 *.png
 mlruns/*
-*.parquet
 *.pck
-dags_dvipp/*
-*.jpeg
