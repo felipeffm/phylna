@@ -13,7 +13,7 @@ __
 - As many as you want. The time series are clustered and selected with feature engineering before the semi supervisioned approach.
 __
 ### What are the semi supervisioned and clustering algorithms chose?
-- tsklearn (cluster time series), facebook prophet, xgboost and statsmodel
+- tsklearn (cluster time series), facebook prophet, xgboost and linear regression
 __
 ### It worked in some dataset ?
 - Yes, fuel pricing data of brazilian gas stations. It is at the ./data folder (rf_base.parquet and outliers_base.parquet). The data is public. 
