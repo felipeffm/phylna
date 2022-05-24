@@ -4,7 +4,7 @@
 # Repository with codes used at the final project of USP MBA - Data Science & Analytics 
 
 ## Goal: 
-### Solve the problem of so many consecutive nulls that standard approach (ffill, bfill, near, interpolation, etc) don't work well.
+### Solve the problem of multiple consecutive nulls that standard approach (ffill, bfill, near, interpolation, etc) don't work well.
 
 ## What the scripts in this repository do?
 - Input values considering other time series as features in a  semi supervisioned approach and uses the best approach at each null.
